@@ -10,7 +10,7 @@
     "start": "next start",
     "test-storybook": "test-storybook",
     "storybook": "start-storybook -p 6006 -s public",
-    "build-storybook": "build-storybook -s public",
+    "build-storybook": "build-storybook",
     "serve-storybook": "serve storybook-static",
     "storybook-local": "storybook dev -p 6006",
     "build-storybook-local": "storybook build"
